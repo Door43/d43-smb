@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[smb:home|Door43 (smb)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-smb|d43-smb repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-smb/archive/master.zip|d43-smb.zip]]
+
+**Recent Changes**
+{{changes>ns = smb}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/smb|Ethnologue data]]
+
